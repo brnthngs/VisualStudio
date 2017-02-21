@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Chapter._4._13
 {
-    class Program
+    class EmployeeTest
     {
-        static void Main(string[] args)
+        public static void main(String[] args)
         {
+
         }
     }
 }

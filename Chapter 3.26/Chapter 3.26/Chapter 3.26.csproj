@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{21996775-FCD5-47D8-9B86-D8D5F28B2110}</ProjectGuid>
+    <ProjectGuid>{2CA6A3F6-9ACF-4B52-A4CE-822E84B5B2FB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Chapter._4._13</RootNamespace>
-    <AssemblyName>Chapter.4.13</AssemblyName>
+    <RootNamespace>Chapter_3._26</RootNamespace>
+    <AssemblyName>Chapter 3.26</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmployeeTest.cs" />
-    <Compile Include="Employee.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
